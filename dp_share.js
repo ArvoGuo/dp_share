@@ -5,13 +5,13 @@ window.shareDefault = {
     image: '图片' //需要放在cdn
 }
 window.shareWX = {
-    appid: 'wx841a97238d9e17b2',
+    appid: 'wx841a97238d9e17b2'
 };
 window.shareWXTL = {
-
+    appid: 'wx841a97238d9e17b2'
 };
 window.shareApp = {
-
+    appid: 'wx841a97238d9e17b2'
 };
 initConfit(shareDefault);
 autoListenWx(shareWX, shareWXTL);
